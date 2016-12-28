@@ -1,0 +1,48 @@
+[INFO][2016-10-30 21:32:38,266][DICLOG]init user userLibrary ok path is : D:\workspace\java\Classifier\Classifier\library\default.dic
+[INFO][2016-10-30 21:32:38,267][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-10-30 21:32:38,792][DICLOG]init core library ok use time :511
+[INFO][2016-10-30 21:32:39,597][DICLOG]init ngram ok use time :800
+[INFO][2016-10-30 21:34:39,886][DICLOG]init user userLibrary ok path is : D:\workspace\java\Classifier\Classifier\library\default.dic
+[INFO][2016-10-30 21:34:39,887][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-10-30 21:34:40,436][DICLOG]init core library ok use time :539
+[INFO][2016-10-30 21:34:41,253][DICLOG]init ngram ok use time :812
+[INFO][2016-10-30 21:34:54,727][DICLOG]init user userLibrary ok path is : D:\workspace\java\Classifier\Classifier\library\default.dic
+[INFO][2016-10-30 21:34:54,728][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-10-30 21:34:55,262][DICLOG]init core library ok use time :523
+[INFO][2016-10-30 21:34:56,058][DICLOG]init ngram ok use time :791
+[INFO][2016-10-31 21:28:44,762][DICLOG]init user userLibrary ok path is : D:\workspace\java\Classifier\Classifier\library\default.dic
+[INFO][2016-10-31 21:28:44,764][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-10-31 21:28:45,287][DICLOG]init core library ok use time :507
+[INFO][2016-10-31 21:28:46,096][DICLOG]init ngram ok use time :809
+[INFO][2016-11-20 16:17:06,374][DICLOG]init user userLibrary ok path is : D:\workspace\java\Classifier\Classifier\library\default.dic
+[INFO][2016-11-20 16:17:06,375][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-11-20 16:17:06,910][DICLOG]init core library ok use time :524
+[INFO][2016-11-20 16:17:07,695][DICLOG]init ngram ok use time :780
+[INFO][2016-12-02 13:28:54,295][DICLOG]init user userLibrary ok path is : D:\workspace\java\Classifier\Classifier\library\default.dic
+[INFO][2016-12-02 13:28:54,296][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-02 13:28:54,972][DICLOG]init core library ok use time :658
+[INFO][2016-12-02 13:28:55,941][DICLOG]init ngram ok use time :962
+[INFO][2016-12-02 13:29:51,695][DICLOG]init user userLibrary ok path is : D:\workspace\java\Classifier\Classifier\library\default.dic
+[INFO][2016-12-02 13:29:51,696][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-02 13:29:52,249][DICLOG]init core library ok use time :542
+[INFO][2016-12-02 13:29:53,278][DICLOG]init ngram ok use time :1023
+[INFO][2016-12-02 13:32:51,007][DICLOG]init user userLibrary ok path is : D:\workspace\java\Classifier\Classifier\library\default.dic
+[INFO][2016-12-02 13:32:51,008][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-02 13:32:51,533][DICLOG]init core library ok use time :515
+[INFO][2016-12-02 13:32:52,083][DICLOG]init ngram ok use time :545
+[INFO][2016-12-26 03:27:32,915][DICLOG]init user userLibrary ok path is : D:\workspace\java\Classifier\Classifier\library\default.dic
+[INFO][2016-12-26 03:27:32,916][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 03:27:33,444][DICLOG]init core library ok use time :518
+[INFO][2016-12-26 03:27:34,264][DICLOG]init ngram ok use time :792
+[INFO][2016-12-26 03:32:03,696][DICLOG]init user userLibrary ok path is : D:\workspace\java\Classifier\Classifier\library\default.dic
+[INFO][2016-12-26 03:32:03,697][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 03:32:04,223][DICLOG]init core library ok use time :514
+[INFO][2016-12-26 03:32:05,059][DICLOG]init ngram ok use time :812
+[INFO][2016-12-26 03:32:27,538][DICLOG]init user userLibrary ok path is : D:\workspace\java\Classifier\Classifier\library\default.dic
+[INFO][2016-12-26 03:32:27,539][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 03:32:28,079][DICLOG]init core library ok use time :530
+[INFO][2016-12-26 03:32:28,918][DICLOG]init ngram ok use time :813
+[INFO][2016-12-26 03:32:36,978][DICLOG]init user userLibrary ok path is : D:\workspace\java\Classifier\Classifier\library\default.dic
+[INFO][2016-12-26 03:32:36,979][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 03:32:37,520][DICLOG]init core library ok use time :531
+[INFO][2016-12-26 03:32:38,348][DICLOG]init ngram ok use time :802
